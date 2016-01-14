@@ -15,21 +15,18 @@ With the selected submission(s) above we are able to offer you:
 - Full access to the conference
 
 Other travel considerations will be made on an as-needed basis. A Lone Star PHP
-organizer will be contacting you soon to book your air travel.
-
-=== What We Need ===
-If you could provide us with the following information:
-- Departure Airport (or whether you're driving to or live in Dallas)
-- Make sure your information is up to date in the CFP system, cfp.lonestarphp.com
-- Preferred instant message client and username (this is for coordinating travel booking)
-- Any special dietary needs (more alcohol does not count as "special")
-
-If you wish to make any updates or corrections to the bio you sent with your
-submission, please feel free to send that as well.
+organizer will be contacting you very soon to book your air travel.
 
 === Finalize Acceptance ===
-We ask that you please reply to this email no later than Friday, January 22nd, and
+We ask that you please confirm your acceptance no later than Friday, January 22nd, and
 let us know if you have accepted this speaking opportunity.
+
+To confirm your acceptance, register at: https://ti.to/lone-star-php/lone-star-php-2016/discount/SPEAKER2016
+
+If you are unable to accept a slot, reply to this email and let us know.
+
+Please also visit https://cfp.lonestarphp.com to confirm your bio and talk descriptions.
+We will be updating our website with the information from here.
 
 Also, feel free to announce your acceptance on Twitter! Our hash tag is #lsp16
 
