@@ -11,8 +11,11 @@ and challenging to those who will attend.
 
 We encourage you to continue submitting your talks and ideas to other
 conferences and to stay involved in the PHP community. We would still love for
-you to attend Lone Star PHP this year, though. Early Bird tickets are still on
-sale, so be sure to pick up your passes at this limited-time discounted rate!
+you to attend Lone Star PHP this year, though. As a thank you for submitting, 
+we are extending the early-bird price to you permanently by using the following
+discount url:
+
+https://ti.to/lone-star-php/lone-star-php-2016/discount/CFP2016
 
 -- Lone Star PHP Team
 http://lonestarphp.com
